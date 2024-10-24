@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>AiModel/labels.txt</file>
+        <file>AiModel/mobilenet.tflite</file>
+    </qresource>
+</RCC>
